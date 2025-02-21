@@ -1,7 +1,10 @@
 Task Management Application
 ===========================
 
-![task-form](task-form.PNG) ![task-management](task-management.PNG)
+![home](https://github.com/user-attachments/assets/4b5d2718-9577-4da3-81d9-b185b447c2b9)
+![sighn up](https://github.com/user-attachments/assets/cafb970e-54d3-4bb9-83bf-696418705b45)
+![task-management](https://github.com/user-attachments/assets/91cab241-511a-420a-8093-5582418ed33b)
+![task-form](https://github.com/user-attachments/assets/199379d3-e7dd-4110-8d6d-1602c10ccdfc)
 
 A modern solution for organizing your tasks efficiently
 
